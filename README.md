@@ -144,6 +144,6 @@ docker volume create CDN_SIM
 docker run --rm -v CDN_SIM:/data -v $(pwd):/backup alpine tar xvf /backup/backup.tar -C /data
 Replace $(pwd) with the path where you saved the backup file on your system.
 
-
+https://chatgpt.com/share/66ea6730-6cac-8001-bb23-6f7e8741ee0f
 
 

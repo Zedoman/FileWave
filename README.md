@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/970b2dc9-dd78-4cb7-a7e8-f0ed550b1507
+
+
+
 ### 1. **What is a CDN?**
 A **Content Delivery Network (CDN)** is a system of distributed servers that deliver content (like images, videos, and web pages) to users based on their location. Instead of serving content from a single server (the **origin** server), a CDN stores copies of the content on multiple servers (**edge** servers) closer to users. This improves content loading speeds and reduces the load on the origin server.
 
